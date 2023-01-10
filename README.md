@@ -1,1 +1,3 @@
 # notion-widgets
+
+- [pinterest](./pinterest)
