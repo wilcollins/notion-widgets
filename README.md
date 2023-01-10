@@ -1,3 +1,4 @@
 # notion-widgets
 
-- [pinterest](./pinterest)
+- [pinterest](./pinterest) 
+- [trading-view](./trading-view) 
